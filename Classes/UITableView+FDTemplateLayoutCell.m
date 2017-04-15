@@ -22,6 +22,7 @@
 
 #import "UITableView+FDTemplateLayoutCell.h"
 #import <objc/runtime.h>
+#import "Masonry.h"
 
 @implementation UITableView (FDTemplateLayoutCell)
 
